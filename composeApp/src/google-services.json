@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "104692665240",
+    "firebase_url": "https://us-power-app-default-rtdb.firebaseio.com",
+    "project_id": "us-power-app",
+    "storage_bucket": "us-power-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:104692665240:android:899b8fbde9c526b72479ed",
+        "android_client_info": {
+          "package_name": "com.uspower"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9D4BhaGAW6rlH-pqlGftAjB2leMS3p6I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
